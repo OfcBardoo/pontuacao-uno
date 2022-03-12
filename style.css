@@ -1,0 +1,32 @@
+* {
+  text-align: center;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+  background-image: url("https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1ZsPC2Aa4ngf2sajDRwBTK/27fe4ba9fa21e2781f0608b14a801353/UNO_hero_desktop_promo.jpg");
+  background-color: #000;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-blend-mode: luminosity;
+}
+
+table {
+  width: 80% !important;
+  margin: 0 auto;
+  border: 2px solid #000;
+  border-collapse: collapse;
+  background-color: #fff;
+  line-height: 2;
+}
+
+h1 {
+  color: #000;
+}
+
+th,
+tr,
+td {
+  border: solid 1px #000;
+  color: #000;
+}
